@@ -4,7 +4,7 @@ Install PyNIDM
 
 * ```git clone https://github.com/incf-nidash/PyNIDM.git```
 
-```python setup.py install```
+* ```python setup.py install```
 
 Either wait for JB's integrated ABIDE + ADHD200 datalad datasets with NIDM files or do the following to simply query the NIDM files but won't have any of the data
 

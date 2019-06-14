@@ -11,5 +11,6 @@ A google doc vision outlineing the overall draft approach is provided here: http
  - The container is at: https://hub.docker.com/r/mgxd/mindboggle/tags
      1.4.0-aws (simple workflow was run inside this container. and mindboggle runs freesurfer and ants).
  - The .ttl files are at: https://github.com/dbkeator/simple2_NIDM_examples
- - Example queries:
+ - Example queries: 
  - ILX decoder: https://github.com/dbkeator/simple2_NIDM_examples/blob/master/datasets.datalad.org/nidm.json
+ - Results of continer run at: https://sensein.github.io/open-data-processing/

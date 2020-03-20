@@ -16,4 +16,5 @@ A google doc vision outlineing the overall draft approach is provided here: http
  - Results of continer run at: https://sensein.github.io/open-data-processing/
  - CSV version of Simple2 data: https://www.dropbox.com/s/8lqhbsh0f25zem1/simple2.csv?dl=0
  - Sample statistics: https://github.com/satra/simple2-ohbm/blob/master/abide1-view.ipynb
+     - also https://github.com/jbpoline/simple2_analysis
  - Hypotheses: https://osf.io/yuv52
